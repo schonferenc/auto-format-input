@@ -1,0 +1,30 @@
+{
+  "name": "auto-format-input",
+  "version": "1.0.0",
+  "description": "Format the text you enter in the input box based on a template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schonferenc/auto-format-input.git"
+  },
+  "keywords": [
+    "format",
+    "input",
+    "auto",
+    "auto-format",
+    "text",
+    "input",
+    "field",
+    "field",
+    "complete"
+  ],
+  "author": "schonferenc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schonferenc/auto-format-input/issues"
+  },
+  "homepage": "https://github.com/schonferenc/auto-format-input#readme"
+}
