@@ -1,6 +1,6 @@
 {
   "name": "auto-format-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Format the text you enter in the input box based on a template.",
   "main": "index.js",
   "scripts": {
