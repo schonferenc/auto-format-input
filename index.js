@@ -35,7 +35,6 @@ function focus(e, target, after) {
     focusAfterEnter(e, target);
   }
   if (typeof after === 'number') {
-    console.log('ok');
     focusAfterMaxLength(e, target, after);
   }
 }
