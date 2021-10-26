@@ -23,6 +23,7 @@ function template(e, tmp, onylNumbers) {
   }
 }
 function focus(e, target, after) {
+  if (typeof e === 'undefined' && typeof target === 'undefined' && typeof after === 'undefined') return;
   const err = focusErrors(e, target, after);
   if (err.status) {
     console.log(err.errors);
