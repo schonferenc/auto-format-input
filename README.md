@@ -184,3 +184,4 @@ If **no value** is specified, the **enter** key takes effect.
 ```ruby
 (Error with after parameter) - expects string "enter", or a number as parameter
 ```
+### If no parameters are specified, the method is simply not executed and does not return an error. It may come in handy to have dynamically generated fields.
